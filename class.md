@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: Nicolas 
+- Certification: Coursera - Meta Back-End Developper
 
 ## Instructions
 Please replace the placeholders with your details:
